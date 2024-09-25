@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhlsunshine
-- 👀 I’m interested in anthing interesting things
-- 🌱 I’m currently learning Rust, Kata container, COCO etc
+- 👀 I’m interested in anything interesting things
+- 🌱 I’m currently learning LLM, RAG, Rust, Kata container, COCO etc
 - 💞️ I’m looking to collaborate on cloud native, service mesh and security
 - 📫 How to reach me ... via email
 
