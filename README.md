@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything interesting things
 - 🌱 I’m currently learning LLM, RAG, Rust, Kata container, COCO etc
 - 💞️ I’m looking to collaborate on cloud native, service mesh and security
-- 📫 How to reach me ... via email
+- 📫 You can reach me via email zhlsunshine878@sina.com
 
 I was looking for a person who would encourage me, support me, inspire me, keep me focused, make me happy and give me unconditional love. Then I realized that all along that person was myself.
 
